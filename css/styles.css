@@ -769,7 +769,6 @@ p {
 .form-label {
   display: block;
   position: relative;
-
   margin-bottom: 10px;
 }
 
@@ -780,7 +779,6 @@ p {
 .form-input-name {
   font-size: 12px;
   line-height: 1.17;
-
   letter-spacing: 0.01em;
 
   color: var(--secondary-text-color);
